@@ -1,0 +1,9 @@
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Data\bin\Debug\Sol_PointOfSale.Data.dll
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Data\bin\Debug\Sol_PointOfSale.Data.pdb
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Data\bin\Debug\Sol_PointOfSale.Entities.dll
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Data\bin\Debug\Sol_PointOfSale.Entities.pdb
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Data\obj\Debug\Sol_PointOfSale.Data.csproj.AssemblyReference.cache
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Data\obj\Debug\Sol_PointOfSale.Data.csproj.CoreCompileInputs.cache
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Data\obj\Debug\Sol_PointOfSale.Data.csproj.CopyComplete
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Data\obj\Debug\Sol_PointOfSale.Data.dll
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Data\obj\Debug\Sol_PointOfSale.Data.pdb

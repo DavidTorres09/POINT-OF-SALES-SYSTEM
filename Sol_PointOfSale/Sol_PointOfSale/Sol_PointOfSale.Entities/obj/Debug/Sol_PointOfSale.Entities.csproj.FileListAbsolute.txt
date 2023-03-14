@@ -1,0 +1,6 @@
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Entities\bin\Debug\Sol_PointOfSale.Entities.dll
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Entities\bin\Debug\Sol_PointOfSale.Entities.pdb
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Entities\obj\Debug\Sol_PointOfSale.Entities.csproj.AssemblyReference.cache
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Entities\obj\Debug\Sol_PointOfSale.Entities.csproj.CoreCompileInputs.cache
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Entities\obj\Debug\Sol_PointOfSale.Entities.dll
+C:\Users\angel.torres\Documents\code\bas\Point_of_sales\Sol_PointOfSale\Sol_PointOfSale\Sol_PointOfSale.Entities\obj\Debug\Sol_PointOfSale.Entities.pdb
